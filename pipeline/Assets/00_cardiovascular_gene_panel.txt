@@ -1,0 +1,39 @@
+1. The Electric Heart (Arrhythmias & Channelopathies)
+Targeting: Long/Short QT, Brugada, CPVT, Early Repolarization, Sick Sinus Syndrome.
+
+Sodium Channels & Modulators: SCN5A, SCN10A, SCN1B, SCN2B, SCN3B, SCN4B, GPD1L, SNTA1, RANGRF.
+
+Potassium Channels: KCNQ1, KCNH2, KCNJ2, KCNJ5, KCNJ8, KCNE1, KCNE2, KCNE3, KCND3, ABCC9.
+
+Calcium Handling & Intracellular: CACNA1C, CACNB2, CACNA2D1, RYR2, CASQ2, CALM1, CALM2, CALM3, TRDN, TECRL, AKAP9, ANK2.
+
+Pacemaker: HCN4.
+
+2. The Structural Heart (Cardiomyopathies)
+Targeting: Hypertrophic (HCM), Dilated (DCM), Arrhythmogenic (ARVC), Left Ventricular Non-Compaction (LVNC).
+
+The Sarcomere: MYH7, MYBPC3, TNNT2, TNNI3, TNNC1, TPM1, ACTC1, MYL2, MYL3, MYPN, NEXN, ALPK3.
+
+The Desmosome (ARVC focus): PKP2, DSP, DSG2, DSC2, JUP, TMEM43.
+
+Cytoskeleton & Z-Disc: TTN (Titin), DES, FLNC, BAG3, VCL, CSRP3, TCAP, LDB3.
+
+Nuclear Envelope & Splicing: LMNA, RBM20, EMD.
+
+Metabolic/Storage Mimics (Often misdiagnosed as HCM): PRKAG2, LAMP2, GLA, TTR, GAA.
+
+Calcium Cycling: PLN.
+
+3. The Vascular Heart (Aortopathies & Connective Tissue)
+Targeting: Thoracic Aortic Aneurysms and Dissections (FTAAD), Marfan, Loeys-Dietz, Vascular Ehlers-Danlos.
+
+Extracellular Matrix: FBN1, FBN2, COL3A1, MFAP5, LOX.
+
+TGF-Beta Signaling Pathway: TGFBR1, TGFBR2, TGFB2, TGFB3, SMAD3, SMAD4, SMAD6.
+
+Smooth Muscle Contraction: ACTA2, MYH11, MYLK, PRKG1.
+
+4. The Metabolic Heart (Familial Hypercholesterolemia)
+Targeting: Severe, early-onset Coronary Artery Disease (CAD) and extreme lipid derangements.
+
+Lipid Receptors & Clearance: LDLR, APOB, PCSK9, LDLRAP1, APOE, LPL, APOC2, GPIHBP1, ABCG5, ABCG8.
